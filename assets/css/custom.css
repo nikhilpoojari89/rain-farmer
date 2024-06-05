@@ -106,6 +106,15 @@
 }
 
 
+/*********** Home Impact Crops Section ************/
+.impact-crops .overlay {
+    background-color: rgba(0, 0, 0, .3);
+}
+.impact-crops .container {
+    z-index: 1;
+}
+
+
 /*********** Home Images Grid ************/
 .home-grid-wrapper img {
 	max-width: 100%;
